@@ -12,7 +12,7 @@ All the notebooks can be execute in google colab's free T4 GPU machine.
 
 <h2> How to </h2>
 
-The basic tutorial PDF: ![Alt Text](/public/LoRA Tuning Tutorial.pdf)
+The basic tutorial PDF: [Download PDF](/public/LoRA Tuning Tutorial.pdf)
 
 <ol>
 <li>Step 1: Go to https://colab.research.google.com/
