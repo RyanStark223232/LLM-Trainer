@@ -7,3 +7,4 @@ peft>=0.3.0
 sentencepiece>=0.1.99 
 tokenizers>=0.13.3 
 transformers>=4.29.2
+mlflow
