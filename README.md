@@ -20,4 +20,6 @@ The basic tutorial PDF: [Download PDF](/public/LoRATuningTutorial.pdf)
 <li>Step 2: File > Upload Notebook > Notebooks/Preprocess.ipynb, Or you can skip this step because the output is alrady in "RM.json"
    
 <li>Step 3: File > Upload Notebook > Notebooks/falcon_lora_training.ipynb, The smallest 1B option, so that you don't need to keep freeing up memory to run on a 16GB GPU
+
+** Falcon-Rick Contains a trained LoRA weight for the notebook. If you don't wanna wait for an hour, copy the weight to root directory and jump directly to Inference
 </ol>
