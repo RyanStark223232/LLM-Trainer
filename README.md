@@ -10,12 +10,14 @@ All the notebooks can be execute in google colab's free T4 GPU machine.
 
 ![Alt Text](/public/cover.png)
 
-<h2> Setup </h2>
+<h2> How to </h2>
+
+The basic tutorial PDF: ![Alt Text](/public/LoRA Tuning Tutorial.pdf)
 
 <ol>
 <li>Step 1: Go to https://colab.research.google.com/
 
 <li>Step 2: File > Upload Notebook > Notebooks/Preprocess.ipynb, Or you can skip this step because the output is alrady in "RM.json"
    
-<li>Step 3: File > Upload Notebook > Notebooks/*_lora_training.ipynb, Pick whichever one you like, all of them are 3B LLM that works on Colab
+<li>Step 3: File > Upload Notebook > Notebooks/falcon_lora_training.ipynb, The smallest 1B option, so that you don't need to keep freeing up memory to run on a 16GB GPU
 </ol>
